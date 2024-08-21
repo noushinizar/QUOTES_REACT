@@ -1,0 +1,83 @@
+[
+    {
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "motivation"
+    },
+    {
+      "quote": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "category": "motivation"
+    },
+    {
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates",
+      "category": "wisdom"
+    },
+    {
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr.",
+      "category": "wisdom"
+    },
+    {
+      "quote": "I'm not arguing, I'm just explaining why I'm right.",
+      "author": "Anonymous",
+      "category": "Humor"
+    },
+    {
+      "quote": "I'm on a whiskey diet. I've lost three days already.",
+      "author": "Anonymous",
+      "category": "Humor"
+    },
+    {
+        "quote": "In three words I can sum up everything I've learned about life: It goes on.",
+        "author": " Robert Frost",
+        "category":"Life"
+      },
+      {
+        "quote": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",
+        "author": " Marilyn Monroe",
+        "category":"Inspirational"
+      },
+      {
+        "quote": "The whole secret of a successful life is to find out what is one's destiny to do, and then do it.",
+        "author": " Henry Ford",
+        "category":"Love"
+      },
+      {
+        "quote": "It is better to be hated for what you are than to be loved for what you are not.",
+        "author": " André Gide",
+        "category":"Love"
+      },
+      {
+        "quote": "You can never get a cup of tea large enough or a book long enough to suit me.",
+        "author": " C.S. Lewis",
+        "category":"Inspirational"
+      },
+      {
+        "quote": "Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up",
+        "author": " James Baldwin ",
+        "category":"Love"
+      },
+      {
+        "quote": "Life is very interesting... in the end, some of your greatest pains, become your greatest strengths.",
+        "author": " Drew Barrymore",
+        "category":"Life"
+      },
+      {
+        "quote": "I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.",
+        "author": " Booker T. Washington",
+        "category":"Life"
+      },
+      {
+          "quote": "I'm not arguing, I'm just explaining why I'm right.",
+          "author": " Anonymous",
+          "category": "Humor"
+        },
+        {
+          "quote": "I'm on a whiskey diet. I've lost three days already.",
+          "author": " Anonymous",
+          "category": "Humor"
+        }
+    
+  ]

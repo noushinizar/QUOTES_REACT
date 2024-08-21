@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+}
+
+.main{
+    height: 100vh;
+    width: 100vw;
+    background: url(https://c1.wallpaperflare.com/preview/850/591/749/books-pages-story-stories.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    height: 500px;
+    width: 950px;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 5px 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 20px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 80px;
+    padding-top: 80px;
+   
+}
+h1{
+    background-image: url(https://i.makeagif.com/media/1-19-2017/zwNLUg.gif);
+    background-size: cover;
+    color: transparent;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-style: oblique;
+    
+    /* margin: 10px 0; */
+  }
+.dropdown{
+    height: 70px;
+    width: 400px;
+    border-radius: 20px;
+    background-color: rgb(204,188,173);
+    color: rgb(133, 120, 120);
+    font-size: 30px;
+    outline: none;
+    border: 1px solid silver;
+    text-transform: capitalize;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .box1{
+    height: 550px;
+    width: 900px;
+    background-color: burlywood;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 5px 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 20px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    
+}
+.quote{
+ 
+    padding: 50px;
+    font-size: 30px ;
+    font-style: italic;
+}
+.author{
+    font-size: 23px ;
+    font-style: italic;
+    text-align: right;
+}
+.back{
+ padding: 20px;
+ outline: none;
+ border: none;
+ background-color: transparent;
+}
+.content{
+    height: 500px;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.btn{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(203, 70, 70);
+    outline: none;
+    border: none;
+
+}
+
